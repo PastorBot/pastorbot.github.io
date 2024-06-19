@@ -4,4 +4,8 @@ body, html {
             display: flex;
             justify-content: center;  /* Horizontally center */
             align-items: center;     /* Vertically center */
-        }
+}
+
+button {
+            width: 250px;
+}
