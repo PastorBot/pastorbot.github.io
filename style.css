@@ -4,6 +4,7 @@ body, html {
             margin: 0;
             display: flex;
             margin: auto;
+            background-color: #b3e6ff;
 }
 
 button {
@@ -12,4 +13,7 @@ button {
             display: flex;
             align-items: center;
             margin: 10px;
+            color: #ffffcc;
+            border: none;
+            radius: 0;
 }
