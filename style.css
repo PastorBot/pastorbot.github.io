@@ -2,18 +2,16 @@ body, html {
             font-family: Garamond, serif;
             height: 100%;
             margin: 0;
-            display: flex;
             margin: auto;
             background-color: #b3e6ff;
 }
 
-button {
+.button {
             width: 200px;
             height: 50px;
-            display: flex;
             align-items: center;
             margin: 10px;
-            color: #ffffcc;
+            background-color: #ffffcc;
             border: none;
             radius: 0;
 }
