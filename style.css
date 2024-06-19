@@ -15,3 +15,11 @@ body, html {
             border: none;
             radius: 0;
 }
+
+button:hover {
+            border: 2px solid gray;
+}
+
+button:active {
+            background-color: gray;
+}
