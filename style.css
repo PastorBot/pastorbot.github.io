@@ -14,6 +14,7 @@ body, html {
             background-color: #ffffcc;
             border: none;
             radius: 0;
+            text-align: center;
 }
 
 button:hover {
