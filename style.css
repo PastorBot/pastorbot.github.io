@@ -91,6 +91,11 @@ h3 {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0%);
 }
 
+a:link, a:visited, a:hover, a:active {
+    text-decoration: none;
+    color: #3f3f3f;
+}
+
 #menu:hover {
     border: 2px solid gray;
     cursor: pointer;
