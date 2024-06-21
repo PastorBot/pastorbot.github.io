@@ -1,8 +1,7 @@
 body, html {
             font-family: Garamond, serif;
             height: 100%;
-            margin: 0;
-            margin: 0px auto;
+            text-align: center;
             background-color: #b3e6ff;
 }
 
