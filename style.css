@@ -30,7 +30,8 @@ button {
 }
 
 button:hover {
-    border: 2px solid gray;
+     border: 2px solid gray;
+     cursor: pointer;
 }
 
 button:active {
