@@ -44,3 +44,16 @@ footer {
     width: 100%;
     overflow: hidden;
 }
+
+h3 {
+    margin-bottom: 13px;
+}
+
+#img1 {
+    height: 40px;
+}
+
+#img2 {
+    height: 23px;
+    margin: 7px;
+}
