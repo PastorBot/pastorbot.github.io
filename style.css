@@ -44,7 +44,7 @@ footer {
     width: 100%;
     overflow: auto;
     margin-top: auto;
-    bottom: 0px;
+    bottom: 10px;
 }
 
 @media only screen and (max-height: 450px) {
