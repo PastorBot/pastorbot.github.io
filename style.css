@@ -1,14 +1,17 @@
-body, html {
-            margin-top: 5vh;
+html {
+     background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)),  url("https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F30000%2Fvelka%2Fsunlight-through-clouds.jpg&f=1&nofb=1&ipt=1af02dc46b9fd03c339b19afab196557d67494eeee00918670b83b600cba6e5f&ipo=images");
+}
+
+body {
+            margin-top: 10vh;
             font-family: Garamond, serif;
             height: 100%;
-            text-align: center;
-            background-color: #caedff;
+            text-align: center;            
 }
 
 h1 {
-    margin-bottom: 3vh;
-    font-size: 3em;
+    margin-bottom: 4vh;
+    font-size: 3.25em;
     font-weight: normal;
 }
 
@@ -31,4 +34,13 @@ button:hover {
 
 button:active {
             background-color: gray;
+}
+
+footer {
+    position: absolute;
+    left: 0;
+    bottom: 0;
+    height: 100px;
+    width: 100%;
+    overflow: hidden;
 }
