@@ -1,8 +1,15 @@
 body, html {
+            margin-top: 5vh;
             font-family: Garamond, serif;
             height: 100%;
             text-align: center;
             background-color: #b3e6ff;
+}
+
+h1 {
+    margin-bottom: 3vh;
+    font-size: 3em;
+    font-weight: normal;
 }
 
 button {
